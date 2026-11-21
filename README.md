@@ -177,9 +177,13 @@ Interesado en el desarrollo de software, especialmente en programación backend,
 
 ## 📄 Licencia
 
-Este proyecto es de carácter académico.
+Este proyecto está distribuido bajo la **Licencia MIT**.
 
-Actualmente no se ha confirmado una licencia de software abierta para el repositorio. Si se incorpora un archivo `LICENSE`, esta sección deberá actualizarse para indicar sus condiciones.
+Se permite utilizar, modificar y distribuir el código, incluso con fines comerciales, siempre que se respeten las condiciones establecidas en la licencia.
+
+Para conocer los términos completos, consulte el archivo [LICENSE](LICENSE).
+
+**Copyright © 2026 Yurgen Andrey Velasco Rojas.**
 
 ---
 
